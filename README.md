@@ -1,4 +1,7 @@
-![image](https://github.com/user-attachments/assets/64b49deb-da91-4524-a026-fdcc1da8b7d3)## EXNO-3-DS
+## EXNO-3-DS
+
+### NAME: SATHYAA R
+### REG NO: 212223100052
 
 # AIM:
 To read the given data and perform Feature Encoding and Transformation process and save the data to a file.
@@ -248,6 +251,4 @@ plt.show()
 
 
 # RESULT:
-       # INCLUDE YOUR RESULT HERE
-
-       
+Thus the given data, Feature Encoding, Transformation process and save the data to a file was performed successfully.
